@@ -30,7 +30,7 @@ This is my custom camera system design for the Bambu lab A1 Mini made during [Ha
 | Raspberry Pi Pico WH | Act as a HID to send signal to computer | [link](https://www.aliexpress.com/item/1005009646610678.html?spm=a2g0o.productlist.main.2.4fff499710NHCj&algo_pvid=8647a6a0-faaa-4c26-a72a-14cd1c1cc629&algo_exp_id=8647a6a0-faaa-4c26-a72a-14cd1c1cc629-1&pdp_ext_f=%7B%22order%22%3A%22125%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%213.99%213.99%21%21%215.27%215.27%21%40211b819117711727399704157e9c0f%2112000049755345588%21sea%21UK%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac7b67d0a%3Bm03_new_user%3A-29895&curPageLogUid=vgdPdWfsgRRc&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009646610678%7C_p_origin_prod%3A) | £7.90 | $10.78 |
 | 3D printed mounts | Secure clicker & camera | Printing legion | £? | $? |
 
-Total = £28.88 or $39.42
+Total = £24.98 or $34.09
 
 
 # Firmware
