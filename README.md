@@ -15,7 +15,7 @@ This is my custom camera system design for the Bambu lab A1 Mini made during [Ha
 
 # Wiring
 
-<p align="center">
+<p>
   <img src="Assets/wiring_1.png" alt="wiring image 1" width="700">
 </p>
 
