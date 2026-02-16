@@ -19,7 +19,13 @@ You can see below a simple wiring diagram I put together showing how the compone
 
 Today, I did some messing around with the camera app on my computer and realised that all I need the pi pico to do is send an **enter** keystroke to the computer while the camera app is open using the webcam and it will take and save all of the photos into a folder that I can view them all later and stitch together to make the timelapse.
 
-[pics]
+I wrote the simple script for the pico in CircuitPython that detects the switch being pressed through one of the GPIO pins (I have put it to 15 for now but I can change whenever), it waits a tiny amount to make sure the switch isn't triggered twice and sends **enter** to my computer.
+
+You can see below the first iteration of my CircuitPython program
+
+
+<img width="700"  alt="journal_2" src="https://github.com/user-attachments/assets/e317b664-7587-4a4b-8131-6c55a3cc4914" />
+
 
 **Total time spent: ?**
 
