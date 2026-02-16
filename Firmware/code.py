@@ -1,4 +1,4 @@
-#circuit python
+#circuit python for pico
 #COM -> GND
 #NO -> GPIO 15
 
