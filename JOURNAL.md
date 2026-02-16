@@ -24,7 +24,7 @@ I wrote the simple script for the pico in CircuitPython that detects the switch 
 You can see below the first iteration of my CircuitPython program and how I plan to wire the microswitch to the pico (COM -> GND and NO -> GPIO)
 
 
-<img width="500" height="700" alt="journal_2" src="https://github.com/user-attachments/assets/e317b664-7587-4a4b-8131-6c55a3cc4914" />
+<img width="500" height="800" alt="journal_2" src="https://github.com/user-attachments/assets/e317b664-7587-4a4b-8131-6c55a3cc4914" />
 
 
 **Total time spent: ?**
