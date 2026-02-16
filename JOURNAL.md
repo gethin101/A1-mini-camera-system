@@ -1,3 +1,4 @@
+---
 # 15/2/26 - First design & BOM
 
 Today, I thought about how I can make my camera system and started to plan out the design in the readme. I did some research on components and put together a rough BOM with links and prices (as you can see below).
